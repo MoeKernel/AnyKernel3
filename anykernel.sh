@@ -13,7 +13,7 @@ supported.versions=14.0
 supported.patchlevels=
 '; }
 
-block=boot;
+block=/dev/block/bootdevice/by-name/boot;
 is_slot_device=1;
 ramdisk_compression=auto;
 patch_vbmeta_flag=auto;
@@ -33,5 +33,4 @@ patch_vbmeta_flag=auto;
 
 reset_ak;
 split_boot;
-
 flash_boot;
