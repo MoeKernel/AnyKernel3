@@ -1,4 +1,4 @@
-### MoeKernel - Xiaomi Redmi Note 8
+### MoeKernel - Motorola Moto G84 5G
 ## Akari Azusagawa @ github-dev
 
 properties() { '
