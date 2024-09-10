@@ -1,11 +1,11 @@
-### MoeKernel - Motorola Moto G84 5G
-## Akari Azusagawa @ github-dev
+# AnyKernel3 Ramdisk Mod Script
+# osm0sis @ xda-developers
 
 properties() { '
-kernel.string=MoeKernel by whyakari
+kernel.string=MoeKernel by @whyakari
 do.devicecheck=1
 do.modules=1
-do.systemless=1
+do.systemless=0
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=bangkk
