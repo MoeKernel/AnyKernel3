@@ -1,4 +1,4 @@
-### MoeKernel - Xiaomi Redmi Note 8
+### MoeKernel
 ## Akari Azusagawa @ github-dev
 
 properties() { '
@@ -9,7 +9,7 @@ do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=lisa
-supported.versions=11.0-13.0
+supported.versions=12.0-14.0
 supported.patchlevels=
 '; }
 
