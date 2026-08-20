@@ -7,7 +7,7 @@ do.modules=0
 do.systemless=0
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=bangkk
+device.name1=fogos
 supported.versions=15-17
 supported.patchlevels=
 supported.vendorpatchlevels=
@@ -36,5 +36,5 @@ dump_boot;
 write_boot;
 
 ui_print "[+] Kernel successfully flashed!";
-ui_print "[+] Thank you for using MeowKernel!";
+ui_print "[+] Thank you for using SushiKernel!";
 ## end boot install
